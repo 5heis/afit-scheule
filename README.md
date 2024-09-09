@@ -1,6 +1,6 @@
 # day_schedule
 
-A new Flutter project.
+A new Flutter project for a contest. This application provides a schedular for my colleagues in school, features include ToDo list and notifier.
 
 ## Getting Started
 
